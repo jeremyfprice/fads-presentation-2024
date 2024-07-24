@@ -2,3 +2,12 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+node_modules
+components/
+pages/
+slidev/
+snippets/
+*.toml
+*json
+*.lock
+*.log
