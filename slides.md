@@ -15,8 +15,24 @@ layout: two-cols-header
 # Neha Anil Chede
 
 - What did you accomplish? What were the results, products, code, or other deliverables that you provided?
+
+  - Integration of R and Python: Successfully integrated R and Python to execute R scripts and generate advanced visualizations, like, spiral plot and solar correlation plot with Streamlit components. The final deliverable was a Streamlit app capable of dynamically rendering aplots directly from R code, showcasing how data visualization libraries from both ecosystems can be used in tandem.
+  - Implemented a dynamic colour mapping strategy that involved sampling from a large colour palette, ensuring a visually intuitive representation where higher values automatically have more prominence. 
+  - Network Simulation: I developed a three-layer network simulation in Streamlit and Python, incorpating discounted layers and mutatuons to create a dynamic network model. 
+  - Web Scraping: I explored web scraping techniques and language models through independent research and hands-on practice.
+
 - What did you learn? What skills did you acquire?
+  - Gained hands-on experience with complex R visualization libraries, learning to create visually appealing and functionally effective plots which cater to specific data presentation needs.
+  - Enhanced my skills in developing interactive applications using Streamlit, focusing on displaying complex visualizations directly from R outputs. This included learning about Streamlit components for displaying HTML and SVG content dynamically.
+  - Through addressing and resolving various errors related to library imports and plot rendering, I honed my debugging and problem-solving skills, crucial for developing robust data applications that involve multiple technologies.
+  - Neo4j and Network Modeling: I explored the use of Neo4j, gaining a deeper understanding of how graph databases can model complex relationships and store interconnected data. I investigated methods for exporting data from Neo4j into Python, providing a seamless workflow for using graph data in Python-based analysis and simulations.
+  - Web Scraping and NLP Techniques: Through independent research and experimentation, I learned the basics of web scraping and natural language processing (NLP) techniques. I practiced extracting data from websites and using language models like WordNet to understand text classification and data augmentation strategies. This exploration helped me understand how to navigate complex website structures and perform basic data extraction tasks, laying the groundwork for future data acquisition projects.
+
 - Any concluding thoughts about your experience?
+  - Interdisciplinary Technical Development: This project provided a valuable opportunity to explore the interdisciplinary nature of data science and software development. I applied concepts from data visualization, frontend development, and cross-language integration, enhancing my ability to deliver comprehensive solutions.
+  - Real-World Problem Solving: Working through real-world challenges, such as managing cross-language plot rendering and dynamic color assignment, was both challenging and rewarding. It solidified my understanding of how different tools and libraries can be combined to solve complex problems effectively.
+  - Versatility and Adaptability: The experience demonstrated my ability to adapt quickly to new libraries and technologies, manage cross-functional tasks, and build solutions that align with both user and technical requirements. This adaptability is a critical asset in the ever-evolving field of technology. It has laid a foundation for taking on more ambitious projects that involve complex data integration and visualization tasks.
+  - Future Potential in Web Scraping and NLP: My exploration into web scraping and language models has opened new avenues for future projects. While not directly applied in this project, the knowledge gained has prepared me to handle data extraction and NLP challenges with more confidence and creativity.
 
 ::left::
 
